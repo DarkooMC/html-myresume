@@ -1,2 +1,2 @@
 # html-myresume
-My fist solo project
+My first solo project
